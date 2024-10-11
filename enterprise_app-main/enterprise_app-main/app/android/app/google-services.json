@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "818036177141",
+    "project_id": "callejea-cbca4",
+    "storage_bucket": "callejea-cbca4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:818036177141:android:5436713a927254907eedbc",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeab5VpsoIJhd36_kPHgr587RGXsS8rIM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
